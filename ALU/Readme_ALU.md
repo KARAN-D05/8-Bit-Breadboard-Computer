@@ -19,5 +19,5 @@
 
 ## Binary to BCD Converter and Segment Display
 - The output of ALU have been interfaced with a 7 segment LED Display
-- In order to correctly interface the 8 bit output, it has to be converted into BCD through a Binary to BCD cinverter
+- In order to correctly interface the 8 bit output, it has to be converted into BCD through a Binary to BCD converter
 - Binary to BCD converter implements Double Dabble Algorithm for conversion
