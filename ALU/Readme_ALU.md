@@ -15,3 +15,9 @@
    1) 74LS86 -> Quad 2-Input X0R Gate
    2) 74LS283 -> 4 Bit Adder
    3) 74LS245 -> Octal Bus Transceiver
+- The Circuit uses 2 74LS86, 2 74LS283 and a single 74LS245
+
+## Binary to BCD Converter and Segment Display
+- The output of ALU have been interfaced with a 7 segment LED Display
+- In order to correctly interface the 8 bit output, it has to be converted into BCD through a Binary to BCD cinverter
+- Binary to BCD converter implements Double Dabble Algorithm for conversion
