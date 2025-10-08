@@ -11,7 +11,8 @@ My approach is:
 ## Modules Validated  
 1) Clock Module  
 2) Registers  
-3) Bus System  
+3) Bus System
+4) ALU
 
 ## Project Structure  
 Each module will have its own folder containing:  
