@@ -22,4 +22,5 @@
 - In order to correctly interface the 8 bit output, it has to be converted into BCD through a Binary to BCD converter
 - Binary to BCD converter implements Double Dabble Algorithm for conversion
 
-**Schematics of all the circuits and sub-circuits have been uploaded in the images folder**
+## Schematics
+- Schematics of all the circuits and sub-circuits have been uploaded in the images folder
