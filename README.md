@@ -9,10 +9,10 @@ My approach is:
 - **Hardware Implementation** – Once all modules are validated, I will implement them on a physical breadboard with real components.  
 
 ## Modules Validated  
-1) Clock Module  
-2) Registers  
-3) Bus System
-4) ALU
+1) [Clock Module](CLOCK) 
+2) [Registers](registers_AND_bus)  
+3) [Bus System](registers_AND_bus)
+4) [ALU](ALU)
 
 ## Project Structure  
 Each module will have its own folder containing:  
