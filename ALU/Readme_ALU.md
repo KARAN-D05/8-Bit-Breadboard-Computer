@@ -22,5 +22,11 @@
 - In order to correctly interface the 8 bit output, it has to be converted into BCD through a Binary to BCD converter
 - Binary to BCD converter implements Double Dabble Algorithm for conversion
 
+## How to use
+- Download the circuit files (8Bit_ALU_GI/TTL.circ) from [ALU](ALU) folder
+- Click the download raw file button to save it locally on your device
+- install and open [logisim evolution](logisim-evolution)
+- Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
+
 ## Schematics
 - Schematics of all the circuits and sub-circuits have been uploaded in the images folder
