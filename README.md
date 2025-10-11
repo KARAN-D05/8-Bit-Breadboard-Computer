@@ -13,9 +13,10 @@ My approach is:
 - [Registers](registers_AND_bus)  
 - [Bus System](registers_AND_bus)
 - [ALU](ALU)
+- [RAM](RAM)
 
 ## Module in Development and Testing phase
-- RAM
+- Address Decode logic
   
 ## Project Structure  
 Each module will have its own folder containing:  
