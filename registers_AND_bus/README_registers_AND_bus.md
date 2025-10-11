@@ -20,15 +20,9 @@ The design allows any register to **input or output data** to the shared 8-bit d
 ---
 
 ## How to Use (Logisim)
-1. Open the Logisim simulation file (`DataBus.circ`). 
-2. Observe the **four registers** connected to the **8-bit data bus**. 
-3. Use the **Load pins** to write data from the bus into a register. 
-4. Use the **Enable pins** to output a register’s value onto the bus. 
-5. Test different combinations to see how multiple registers interact with the bus. 
-
-> Tip: Each register’s output only appears on the bus when its **Enable** pin is active, preventing bus conflicts.
-
----
+- Download the raw [circuit file](DataBus.circ)
+- Install [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases))
+- Open the downloaded file in logisim and the circuit will be ready for you to interact with
 
 ## Images
 All schematics and snapshots of the module are stored in the `images/` folder.
