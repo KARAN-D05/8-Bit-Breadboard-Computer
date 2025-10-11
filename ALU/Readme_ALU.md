@@ -23,7 +23,7 @@
 - Binary to BCD converter implements Double Dabble Algorithm for conversion
 
 ## How to use
-- Download the circuit files (8Bit_ALU_GI/TTL.circ) from [ALU](../ALU) folder
+- Download the circuit files (8Bit_ALU_GI/TTL.circ) from the [ALU](../ALU) folder
 - Click the download raw file button to save it locally on your device
 - install and open [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases)
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
