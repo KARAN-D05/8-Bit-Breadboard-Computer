@@ -9,10 +9,10 @@ My approach is:
 - **Hardware Implementation** – Once all modules are validated, I will implement them on a physical breadboard with real components.  
 
 ## Modules Validated  
-1) [Clock Module](CLOCK) 
-2) [Registers](registers_AND_bus)  
-3) [Bus System](registers_AND_bus)
-4) [ALU](ALU)
+- [Clock Module](CLOCK)
+- [Registers](registers_AND_bus)  
+- [Bus System](registers_AND_bus)
+- [ALU](ALU)
 
 ## Module in Development and Testing phase
 - RAM
