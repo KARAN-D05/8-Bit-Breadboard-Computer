@@ -15,7 +15,7 @@
 - No address decode logic, so to write data to or read data from a desired memory cell, that cell has to be accessed individually to make EN, WR pins high.
 
 ## How to use
-- Download the [circuit file](../Random_Access_Memory.circ) from RAM folder
+- Download the [circuit file](Random_Access_Memory.circ) from RAM folder
 - Click the download raw file button to save it locally on your device
 - install and open [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases)
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
