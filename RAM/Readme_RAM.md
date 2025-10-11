@@ -1,5 +1,5 @@
 ## RAM
-<<<<<<< HEAD
+
 - Random acess memory is a module where we can store our data and even instructions
 - As the name suggests, we can read from or write to RAM
 
@@ -20,5 +20,3 @@
 - Click the download raw file button to save it locally on your device
 - install and open [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases)
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
-=======
->>>>>>> 47efef9 (This folder contains RAM circuit file, readme and images)
