@@ -14,6 +14,9 @@ My approach is:
 3) [Bus System](registers_AND_bus)
 4) [ALU](ALU)
 
+## Module in Development and Testing phase
+- RAM
+  
 ## Project Structure  
 Each module will have its own folder containing:  
 - A dedicated **README.md** explaining design, features, and usage  
