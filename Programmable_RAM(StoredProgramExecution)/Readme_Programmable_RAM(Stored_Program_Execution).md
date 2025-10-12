@@ -1,2 +1,4 @@
-\## **Manually Programmable RAM**
+## Programmable RAM (Stored Program Execution)
+- Will update soon!!
+
 
