@@ -27,13 +27,13 @@
 - Bit14-> E0W1
 
 ## Translating the desired set of operations in a Program
-- In order to do that, one should have thorough understanding of how the operations are implemented through hardware so that instructions can be sequenced proper
+- In order to do that, one should have thorough understanding of how the operations are implemented through hardware so that instructions can be sequenced properly
 - For writing data to any arbitrary memory cell, make the adrsess bits high and low according to the cell's address, enter the data through data pins and keep
    OUT_CONTROL and E0W1 high and load that instruction through load pin.
-- For enabling data of any arbitrary memory cell, make the adrsess bits high and low according to the cell's address, keep the OUT_CONTROL high and E0W1 low and
+- For enabling data of any arbitrary memory cell, make the address bits high and low according to the cell's address, keep the OUT_CONTROL high and E0W1 low and
   load that instuction through load pin.
 - Following the above two steps and any program can be written to deal with memory cells.
-- It is recommended to refer the [RAM](RAM) and [Manually Programmable Ram](Manually_Programmable_RAM) for the knowledge of how different operations are
+- It is recommended to refer the [RAM](../RAM) and [Manually Programmable Ram](../Manually_Programmable_RAM) for the knowledge of how different operations are
   implemented in hardware and when to set a particular machine code insrtuction bit high or low to control the pins essentially controlling the machine
 
 ## Program Memory
@@ -58,5 +58,6 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
