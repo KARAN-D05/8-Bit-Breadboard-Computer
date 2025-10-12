@@ -17,7 +17,8 @@ My approach is:
 - [Address Decode Logic](Address_Decoders)
 
 ## Module in Development and Testing phase
-- Programmable RAM
+- Manually Programmable RAM
+- Programmable RAM (Stored Program Execution)
   
 ## Project Structure  
 Each module will have its own folder containing:  
