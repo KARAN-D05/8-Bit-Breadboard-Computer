@@ -16,7 +16,7 @@ My approach is:
 - [RAM](RAM)
 - [Address Decode Logic](Address_Decoders)
 - [Manually Programmable RAM](Manually_Programmable_RAM)
-- [Programmable_RAM_Stored Program Execution](Programmable_RAM Stored Program Execution)
+- [Programmable_RAM_Stored Program Execution](Programmable_RAM(StoredProgramExecution))
 
 ## Module in Development and Testing phase
 - Program Counter
