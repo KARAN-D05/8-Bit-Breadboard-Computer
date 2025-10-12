@@ -15,9 +15,9 @@ My approach is:
 - [ALU](ALU)
 - [RAM](RAM)
 - [Address Decode Logic](Address_Decoders)
+- [Manually Programmable RAM](Manually_Programmable_RAM)
 
 ## Module in Development and Testing phase
-- Manually Programmable RAM
 - Programmable RAM (Stored Program Execution)
   
 ## Project Structure  
