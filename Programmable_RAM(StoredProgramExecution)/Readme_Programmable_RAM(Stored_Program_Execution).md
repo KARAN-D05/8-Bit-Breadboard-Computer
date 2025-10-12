@@ -33,7 +33,7 @@
 - For enabling data of any arbitrary memory cell, make the address bits high and low according to the cell's address, keep the OUT_CONTROL high and E0W1 low and
   load that instuction through load pin.
 - Following the above two steps and any program can be written to deal with memory cells.
-- It is recommended to refer the [RAM](../RAM) and [Manually Programmable Ram](../Manually_Programmable_RAM) for the knowledge of how different operations are
+- It is recommended to refer the [RAM](../RAM) and [Manually Programmable RAM](../Manually_Programmable_RAM) for the knowledge of how different operations are
   implemented in hardware and when to set a particular machine code insrtuction bit high or low to control the pins essentially controlling the machine
 
 ## Program Memory
@@ -47,6 +47,13 @@
 - Same steps have to be followed for further instruction loading
 - Ix_y, x=1,2,3,4 is the sequence in which instuctions will be executed
 
+## Data Sink Control Buffer array
+- It is connected to ouptut of Interface module to prevent data sinking or losing data 1 when it is connected to a 0
+- The buffer array before another array with OUT_CONTROL pin is the Data Sink control Buffer array
+- The buffers are controlled by the data on the interface module, if the data is 1 then buffer is on if not buffer is in high impedance state preventing data
+   sinking.
+- It is one of the most important module that lets memory cell output data on the bus by stored program execution by preventing data sinking.
+
 ## How to Use
 
 1. Install Logisim Evolution from: [Logisim Evolution GitHub](https://github.com/logisim-evolution/logisim-evolution)
@@ -58,6 +65,7 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
 
