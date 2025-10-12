@@ -5,15 +5,15 @@
 ## Features
 - 4-Bit address, therefore we can address 16 memory locations (Cell_0-Cell_15)
 - Pins:-
-   1) OUT_CONTROL -> If high we can access any memory cell, it enables our adress decode logic to access any memeory cell
-   2) E0W1 -> If 0 then the we can put the data of the selected memory cell on to the bus
+   1. OUT_CONTROL -> If high we can access any memory cell, it enables our adress decode logic to access any memeory cell
+   2. E0W1 -> If 0 then the we can put the data of the selected memory cell on to the bus
            -> If 1 then we can read the data from the bus and store it in the memory
-   3) Address pins
+   3. Address pins
    - A0 -> Least significant bit of our address, when high it holds value of 1
    - A1 -> When high it holds value of 2
    - A2 -> When high it holds value of 4
    - A3 -> Most significant bit of our address, when high it holds value of 8
-   4) RESET -> each memory cell has its own reset to erase the data in the memory cell
+   4. RESET -> each memory cell has its own reset to erase the data in the memory cell
 
 ## Memory-Bus Interface
 - Pin V1-V8 shows the data in the memory cell
