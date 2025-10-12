@@ -57,7 +57,7 @@
 ## How to Use
 
 1. Install Logisim Evolution from: [Logisim Evolution GitHub](https://github.com/logisim-evolution/logisim-evolution)
-2. Download the [circuit file](Programmable_RAM(StoredProgramExecution))
+2. Download the [circuit file](Programmable_RAM(StoredProgramExecution.circ))
 3. Open the circuit file in logisim and the circuit would be ready to interact with
 3. Understand the Instruction format and machine code programming and try loading data to 2-3 memory cells through programming
 
@@ -65,6 +65,7 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
 
