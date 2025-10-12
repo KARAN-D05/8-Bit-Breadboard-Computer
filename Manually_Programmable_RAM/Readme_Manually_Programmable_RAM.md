@@ -13,4 +13,5 @@
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
 
 ## Schematics
-- All images of the circuits have been provided in the [images folder](Manually_Programmable_RAM/images)
+- All images of the circuits have been provided in the [images folder](images)
+
