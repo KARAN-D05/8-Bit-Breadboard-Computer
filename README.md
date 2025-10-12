@@ -16,9 +16,10 @@ My approach is:
 - [RAM](RAM)
 - [Address Decode Logic](Address_Decoders)
 - [Manually Programmable RAM](Manually_Programmable_RAM)
+- [Programmable_RAM_Stored Program Execution](Programmable_RAM Stored Program Execution)
 
 ## Module in Development and Testing phase
-- Programmable RAM (Stored Program Execution)
+- Program Counter
   
 ## Project Structure  
 Each module will have its own folder containing:  
