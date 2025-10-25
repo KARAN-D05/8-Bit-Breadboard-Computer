@@ -22,7 +22,7 @@ My approach is:
 - Program Counter
 
 ## Module in Debugging Phase
-- ALU Gate Implementation (Bug Discovered)
+- [ALU Gate Implementation](Bugs)
 
 ## Project Structure  
 Each module will have its own folder containing:  
