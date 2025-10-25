@@ -20,7 +20,10 @@ My approach is:
 
 ## Module in Development and Testing phase
 - Program Counter
-  
+
+## Module in Debugging Phase
+- ALU Gate Implementation (Bug: Unconsitent results in subtraction operation)
+
 ## Project Structure  
 Each module will have its own folder containing:  
 - A dedicated **README.md** explaining design, features, and usage  
