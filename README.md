@@ -22,7 +22,7 @@ My approach is:
 - Program Counter
 
 ## Module in Debugging Phase
-- ALU Gate Implementation (Bug: Unconsitent results in subtraction operation)
+- ALU Gate Implementation (Bug Discovered)
 
 ## Project Structure  
 Each module will have its own folder containing:  
