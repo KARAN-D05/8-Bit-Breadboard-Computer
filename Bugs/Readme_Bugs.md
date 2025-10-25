@@ -1,8 +1,6 @@
-## Bugs
-- This file contains all the bugs discovered in the modules and will give the reason for the occurence of bug and how it was debugged
+## Bugs: This file contains all the bugs discovered in the modules and will give the reason for the occurence of bug and how it was debugged
 
-
-1) **ALU Gate Implementation**
+## 1) **ALU Gate Implementation**
  - In the subtraction mode of [8Bit_ALU_GI.circ](../ALU) the result getting outputted was correct sometimes and sometimes not.
  - It seemed completely random and i initially thought it was a simulator bug rather than a design bug
  - After a lot of trial and error i find out it happens due to using 2 seperate 4 Bit ALU's in case of subtraction
