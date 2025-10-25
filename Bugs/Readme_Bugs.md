@@ -1,4 +1,4 @@
-## Bugs: This file contains all the bugs discovered in the modules and will give the reason for the occurence of bug and how it was debugged
+## Bugs: This file contains all the bugs discovered in the modules, reason for its occurence and how it was debugged
 
 ## 1) **ALU Gate Implementation**
  - In the subtraction mode of [8Bit_ALU_GI.circ](../ALU) the result getting outputted was correct sometimes and sometimes not.
