@@ -12,3 +12,6 @@
  - as our 8 Bit ALU is made up of 2-4 Bit ALU'sso A1 and B1 are computed seperately thus this outputs (A1-B1)-> 0110 (6)
  - The second 4 Bit ALU computes (A2-B2), here B2 is greater than A2 thus the result we get is in it's 2's complement form thus not consitent with the mathematical logic. So we get (A2-B2)-> 0001 (1)
  - So now the entire string is 01100001 (97), far from the actual value
+
+ ## Solution
+ - Working on a contraption which will automatically detect that the situation as described above have occured, and through some clever logic, will try to get results as they should be.
