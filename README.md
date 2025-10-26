@@ -17,9 +17,10 @@ My approach is:
 - [Address Decode Logic](Address_Decoders)
 - [Manually Programmable RAM](Manually_Programmable_RAM)
 - [Programmable_RAM_Stored Program Execution](Programmable_RAM(StoredProgramExecution))
+- [Program Counter](Program_Counter)
 
 ## Module in Development and Testing phase
-- Program Counter
+- 7 Segment Hex Decoder
 
 ## Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
