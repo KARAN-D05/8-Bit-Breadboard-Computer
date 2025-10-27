@@ -20,7 +20,7 @@ My approach is:
 - [Program Counter](Program_Counter)
 
 ## Module in Development and Testing phase
-- 7 Segment Hex Decoder
+- 7 Segment Display
 
 ## Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
