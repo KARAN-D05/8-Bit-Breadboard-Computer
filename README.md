@@ -12,9 +12,9 @@ My approach is:
 
 <p align="center">
   <img src="Programmable_RAM(StoredProgramExecution)/images/Programmable_RAM_Stored_Program_Execution.png" 
-       alt="Programmable RAM (Stored Program Execution)" width="750"/>
+       alt="Programmable RAM (Stored Program Execution)" width="700"/>
   <br>
-  <sub><b>💾 Programmable RAM — Stored Program Execution</b></sub>
+  <sub><b>💾 Programmable RAM - Stored Program Execution</b></sub>
 </p>
 
 
