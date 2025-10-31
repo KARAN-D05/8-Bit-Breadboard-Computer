@@ -9,6 +9,15 @@ My approach is:
 - **⚙️Hardware Implementation** – Once all modules are validated, I will implement them on a physical breadboard with real components.  
 
 ## ✅ Modules Validated  
+
+<p align="center">
+  <img src="Programmable_RAM(StoredProgramExecution)/images/Programmable_RAM_Stored_Program_Execution.png" 
+       alt="Programmable RAM (Stored Program Execution)" width="750"/>
+  <br>
+  <sub><b>💾 Programmable RAM — Stored Program Execution</b></sub>
+</p>
+
+
 - [Clock Module](CLOCK)
 - [Registers](registers_AND_bus)  
 - [Bus System](registers_AND_bus)
