@@ -9,6 +9,10 @@ Registers are built in **Logisim** using standard TTL ICs:
 
 The design allows any register to **input or output data** to the shared 8-bit data bus using control pins (Load or Enable).
 
+<p align="center">
+  <img src="images/registers_AND_bus.png" width="600">
+</p>
+
 ---
 
 ## Features
