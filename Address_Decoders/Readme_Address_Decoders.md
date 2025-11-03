@@ -2,6 +2,10 @@
 - Each memory location in the RAM can be identified by an address
 - In order to access a specific memeory location we need address decoders
 
+<p align="center">
+  <img src="images/PAM_Address_Decoders.png"  width="600">
+</p>
+
 ## Features
 - 4-Bit address, therefore we can address 16 memory locations (Cell_0-Cell_15)
 - Pins:-
@@ -27,4 +31,5 @@
 - Click the download raw file button to save it locally on your device
 - install and open [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases)
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
+
 
