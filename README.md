@@ -21,10 +21,10 @@ My approach is:
 - [Manually Programmable ROM Chip - Hex Display](PROM_Chip-Hex-Display)
   
 <p align="center">
-  <img src="Programmable_RAM(StoredProgramExecution)/images/Programmable_RAM_Stored_Program_Execution.png" 
-       alt="Programmable RAM (Stored Program Execution)" width="750"/>
+  <img src="PROM_Chip-Hex-Display/Images/Programmable_ROM_Chip.png" 
+       width="750"/>
   <br>
-  <sub><b>💾 Programmable RAM - Stored Program Execution</b></sub>
+  <sub><b>💾 Programmable ROM Chip </b></sub>
 </p>
 
 ## 🔍 Module in Development and Testing phase
