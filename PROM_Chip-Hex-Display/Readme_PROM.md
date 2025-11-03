@@ -1,3 +1,3 @@
-## PROM CHIP
-- Will be available soon
+## PROM Hex-Display Decoder
+- 'Overview'
 
