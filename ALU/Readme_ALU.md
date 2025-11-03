@@ -9,7 +9,7 @@
   <img src="images/ALU_TTL_Implementation.png" alt="PROM Hex Display" width="600">
 </p>
 
-## Logic Gate Implementation
+## Logic Gate Implementation 
 - It supports both 8-bit addition and subtraction
 - It is Made from 2 4-bit adders and 4-bit adders are made from 4 full adders
 - Entire logic can be traced back to simple logic circuits
