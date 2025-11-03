@@ -18,6 +18,7 @@ My approach is:
 - [Manually Programmable RAM](Manually_Programmable_RAM)
 - [Programmable_RAM_Stored Program Execution](Programmable_RAM(StoredProgramExecution))
 - [Program Counter](Program_Counter)
+- [Manually Programmable ROM Chip - Hex Display](PROM_Chip-Hex-Display)
   
 <p align="center">
   <img src="Programmable_RAM(StoredProgramExecution)/images/Programmable_RAM_Stored_Program_Execution.png" 
@@ -27,7 +28,7 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Manually Programmable ROM CHIP - 7 Segment Hex Display
+- Manually Programmable ROM CHIP - 8 Bit Decimal Display
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
