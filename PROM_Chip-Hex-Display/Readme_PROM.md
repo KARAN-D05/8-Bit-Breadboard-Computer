@@ -1,6 +1,10 @@
 ## PROM Hex-Display Decoder
 - Implemented a binary-to-hex display decoder using a Programmable Read-Only Memory (PROM) chip. The PROM is programmed such that each binary value applied to its address lines corresponds to the appropriate 7-segment display output for hexadecimal digits 0–F.
 
+<p align="center">
+  <img src="../images/Programmable-ROM-Chip.png" alt="Programmable ROM Chip" width="600">
+</p>
+
 ## Features
 - Built using the [Memory module](../RAM)and configured  into a Programmable ROM chip.
 - It has 16 Memory cells(C0-C15), each cell capable of stroing 8 Bits of data.
