@@ -6,7 +6,7 @@
 2) **TTL Chip Implementation**
 
 <p align="center">
-  <img src="images/ALU_TTL_Implementation.png" alt="PROM Hex Display" width="600">
+  <img src="images/ALU_TTL_Implementation.png" alt="PROM Hex Display" width="800">
 </p>
 
 ## Logic Gate Implementation 
