@@ -3,7 +3,7 @@
 - Can be interfaced with the bus.
 
 <p align="center">
-  <img src="Images/Program_Counter_Bus_Interfaced.png" width="800">
+  <img src="Images/Program_Counter_Bus_Interfaced.png" width="600">
 </p>
 
 ## Implementations
