@@ -21,7 +21,7 @@ My approach is:
 - [Manually Programmable ROM Chip - Hex Display](PROM_Chip-Hex-Display)
   
 <p align="center">
-  <img src="PROM_Chip-Hex-Display/Images/Programmable_ROM_Chip.png" 
+  <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
        width="750"/>
   <br>
   <sub><b>💾 Programmable ROM Chip </b></sub>
