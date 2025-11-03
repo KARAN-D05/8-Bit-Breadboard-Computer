@@ -2,6 +2,10 @@
 - In Stored Program execution also known as Von Neumann Architecture, we store the program in the memory as sequence of machine code instructions that are
   sequentially executed one by one by the hardware.
 
+<p align="center">
+  <img src="images/Programmable_RAM_Stored_Program_Execution.png" width="800">
+</p>
+
 ## Features
 - A memory unit called program memory is used to store the program
 - The program is sequentially executed without any manual intervention
@@ -65,6 +69,7 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
 
