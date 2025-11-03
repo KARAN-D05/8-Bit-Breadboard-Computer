@@ -3,7 +3,7 @@
   sequentially executed one by one by the hardware.
 
 <p align="center">
-  <img src="images/Programmable_RAM_Stored_Program_Execution.png" width="800">
+  <img src="images/Programmable_RAM_Stored_Program_Execution.png" width="600">
 </p>
 
 ## Features
@@ -69,6 +69,7 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
 
