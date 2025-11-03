@@ -3,6 +3,10 @@
 - Random acess memory is a module where we can store our data and even instructions
 - As the name suggests, we can read from or write to RAM
 
+<p align="center">
+  <img src="Images/16_Byte_Memory.png" alt="PROM Hex Display" width="600">
+</p>
+
 ## Features
 - It is capable of storing 16-Bytes worth of data
 - Built from connecting 16 1-Byte memory cell
