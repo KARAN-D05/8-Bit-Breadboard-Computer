@@ -27,7 +27,7 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Manually Programmable ROM - 7 Segment Hex Display
+- Manually Programmable ROM CHIP - 7 Segment Hex Display
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
