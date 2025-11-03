@@ -5,7 +5,7 @@ This module generates the clock signals needed to drive the 8-bit breadboard com
 It explores both **discrete component designs** and **IC-based implementations** to understand timing and signal generation at the gate level.
 
 <p align="center">
-  <img src="images/astable_clock.png" width="400">
+  <img src="images/astable_clock.png" width="800">
 </p>
 
 ## Implementations
