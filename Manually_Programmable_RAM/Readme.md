@@ -2,7 +2,7 @@
 - It is an extension to RAM which was only interfaced with the bus
 - We can individually store data in any memory cell by manual programming
 <p align="center">
-  <img src="images/Manually_Programmable_RAM.png" width="800">
+  <img src="images/Manually_Programmable_RAM.png" width="600">
 </p>
 
 ## Features
@@ -17,5 +17,6 @@
 
 ## Schematics
 - All images of the circuits have been provided in the [images folder](images)
+
 
 
