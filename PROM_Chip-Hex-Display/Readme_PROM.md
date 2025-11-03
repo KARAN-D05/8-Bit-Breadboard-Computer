@@ -2,7 +2,7 @@
 - Implemented a binary-to-hex display decoder using a Programmable Read-Only Memory (PROM) chip. The PROM is programmed such that each binary value applied to its address lines corresponds to the appropriate 7-segment display output for hexadecimal digits 0–F.
 
 <p align="center">
-  <img src="images/PROM-Hex-Display-6.png" alt="PROM Hex Display" width="600">
+  <img src="Images/PROM-Hex-Display-6.png" alt="PROM Hex Display" width="600">
 </p>
 <p align="center"><em>Output display showing hexadecimal values (0–F).</em></p>
 
