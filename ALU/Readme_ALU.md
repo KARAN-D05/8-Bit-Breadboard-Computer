@@ -5,6 +5,10 @@
 1) **Logic Gate Implementation**
 2) **TTL Chip Implementation**
 
+<p align="center">
+  <img src="Images/ALU_TTL_Implementation.png" width="400">
+</p>
+
 ## Logic Gate Implementation
 - It supports both 8-bit addition and subtraction
 - It is Made from 2 4-bit adders and 4-bit adders are made from 4 full adders
