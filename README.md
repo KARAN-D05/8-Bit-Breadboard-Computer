@@ -24,7 +24,7 @@ My approach is:
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
        width="750"/>
   <br>
-  <sub><b>💾 Programmable ROM Chip </b></sub>
+  <sub><b>💾 Programmable ROM </b></sub>
 </p>
 
 ## 🔍 Module in Development and Testing phase
