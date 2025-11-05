@@ -22,7 +22,7 @@ My approach is:
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
-       width="650"/>
+       width="700"/>
   <br>
   <sub><b>💾 Programmable ROM Chip </b></sub>
 </p>
