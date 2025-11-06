@@ -5,8 +5,8 @@ This project is my attempt to explore how computers work **fundamentally at the 
 Inspired by the Ben Eater 8-bit computer series, I aim to design and build a fully functional 8-bit CPU from scratch.  
 
 My approach is:  
-- **💻Simulation First** – Each module is first prototyped and tested in simulators like *Logisim Evolution* or *Falstad*.  
-- **⚙️Hardware Implementation** – Once all modules are validated, I will implement them on a physical breadboard with real components.  
+- **💻Simulation First** - Each module is first prototyped and tested in simulators like *Logisim Evolution* or *Falstad*.  
+- **⚙️Hardware Implementation** - Once all modules are validated, I will implement them on a physical breadboard with real components.  
 
 ## ✅ Modules Validated  
 - [Clock Module](CLOCK)
@@ -18,8 +18,8 @@ My approach is:
 - [Manually Programmable RAM](Manually_Programmable_RAM)
 - [Programmable_RAM_Stored Program Execution](Programmable_RAM(StoredProgramExecution))
 - [Program Counter](Program_Counter)
-- [Manually Programmable ROM Chip - Hex Display](PROM_Chip-Hex-Display)
-- [Manually Programmable ROM Chip 8 Bit Binary - Decimal Display](PROM_Chip-Decimal-Display)
+- [Programmable ROM - Hex Display](PROM_Chip-Hex-Display)
+- [Programmable ROM - Decimal Display](PROM_Chip-Decimal-Display)
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
