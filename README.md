@@ -19,6 +19,7 @@ My approach is:
 - [Programmable_RAM_Stored Program Execution](Programmable_RAM(StoredProgramExecution))
 - [Program Counter](Program_Counter)
 - [Manually Programmable ROM Chip - Hex Display](PROM_Chip-Hex-Display)
+- [Manually Programmable ROM Chip 8 Bit Binary - Decimal Display](PROM_Chip-Decimal-Display)
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
@@ -28,7 +29,7 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Manually Programmable ROM CHIP - 8 Bit Decimal Display
+- Module Integration and interconnection through Data-Bus
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
