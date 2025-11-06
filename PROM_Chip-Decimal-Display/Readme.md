@@ -10,5 +10,5 @@
 - Implemented the conversion using Double-Dabble Algorithm.
 
 <p align="center">
-  <img src="images/Binary-to-BCD.png" alt="Binary to BCD Converter" width="400">
+  <img src="images/Binary-to-BCD.png" alt="Binary to BCD Converter" width="700">
 </p>
