@@ -29,7 +29,7 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Module Integration and interconnection
+- Modules Integration and interconnection
 - Control Logic
 
 ## 🐞 Module in Debugging Phase
