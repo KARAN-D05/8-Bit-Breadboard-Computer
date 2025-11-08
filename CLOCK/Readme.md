@@ -11,9 +11,9 @@ It explores both **discrete component designs** and **IC-based implementations**
 ## Implementations
 
 1. **Discrete Component Clocks (Falstad Simulation)**
-   - **Monostable** – Stable in only one state(0)
-   - **Bistable** – Stable in both states(0&1)
-   - **Astable** – Not stable in any state , outputs keep oscillating
+   - **Monostable** - Stable in only one state(0)
+   - **Bistable** - Stable in both states(0&1)
+   - **Astable** - Not stable in any state , outputs keep oscillating
    - Purpose: To understand basic timing circuits using only fundamental components.
 
 2. **555 Timer IC Clock (Falstad Simulation)**
