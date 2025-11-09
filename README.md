@@ -20,6 +20,7 @@ My approach is:
 - [Program Counter](Program_Counter)
 - [Programmable ROM - Hex Display](PROM_Chip-Hex-Display)
 - [Programmable ROM - Decimal Display](PROM_Chip-Decimal-Display)
+- [System Integration](System_Integration)
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
@@ -29,7 +30,6 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Modules Integration and interconnection
 - Control Logic
 
 ## 🐞 Module in Debugging Phase
