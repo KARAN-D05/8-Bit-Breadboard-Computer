@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="Images/System-Integration.png" 
-       alt="System Integration - All Modules Connected" width="1000"/>
+       alt="System Integration - All Modules Connected" width="1200"/>
   <br>
   <sub><b>⚙️ System Integration - Registers, Memory, ALU, and Clock Connected</b></sub>
 </p>
