@@ -9,5 +9,5 @@
   <sub><b>⚙️ System Integration - Registers, Memory, ALU, and Clock Connected</b></sub>
 </p>
 
-# 🎥 Demonstration
+## 🎥 Demonstration
 - [▶️ Watch Raw Video - System Performing Arithmetic](Video/System%20Performing%20Arithmetic.mp4)
