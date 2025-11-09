@@ -1,5 +1,6 @@
 ## 🧩 System Integration
-- Integrated all individual hardware modules like ALU, Program Counter, Data Registers, RAM, Display into a single synchronized assembly.
+- Integrated all individual hardware modules like ALU, Program Counter, Data Registers, RAM, Display into a single synchronized computing assembly.
+- Verified proper data flow, signal timing, and module interfacing for arithmetic execution cycles.
 
 <p align="center">
   <img src="Images/System-Integration.png" 
@@ -8,4 +9,5 @@
   <sub><b>⚙️ System Integration - Registers, Memory, ALU, and Clock Connected</b></sub>
 </p>
 
-🎥 **Demonstration:** [▶️ Watch Raw Video - System Performing Arithmetic](Video/System%20Performing%20Arithmetic.mp4)
+# 🎥 **Demonstration:**
+- [▶️ Watch Raw Video - System Performing Arithmetic](Video/System%20Performing%20Arithmetic.mp4)
