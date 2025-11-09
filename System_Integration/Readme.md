@@ -6,7 +6,7 @@
   <img src="Images/System-Integration.png" 
        alt="System Integration - All Modules Connected" width="1200"/>
   <br>
-  <sub><b>⚙️ System Integration - Registers, Memory, ALU, and Clock Connected</b></sub>
+  <sub><b>⚙️ System Integration - Registers, Memory, ALU, Program Counter Connected</b></sub>
 </p>
 
 ## 🎥 Demonstration
