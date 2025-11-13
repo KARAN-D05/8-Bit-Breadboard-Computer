@@ -30,7 +30,7 @@ My approach is:
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Control Logic
+- CPU Control Logic
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
