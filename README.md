@@ -4,9 +4,8 @@
 This project is my attempt to explore how computers work **fundamentally at the gate level**.  
 Inspired by the Ben Eater 8-bit computer series, I aim to design and build a fully functional 8-bit CPU from scratch.  
 
-My approach is:  
-- **💻Simulation First** - Each module is first prototyped and tested in simulators like *Logisim Evolution* or *Falstad*.  
-- **⚙️Hardware Implementation** - Once all modules are validated, I will implement them on a physical breadboard with real components.  
+## 🎯My Approach: 
+*Before simulation, each module is designed conceptually using hand-drawn block diagrams and written reasoning to validate the logic flow through mental simulation and small example cases. The block diagram is then refined into a rough structural, gate-level representation before being implemented, debugged, and rigorously tested in digital logic simulators such as Logisim Evolution and Falstad. Where possible, I explore multiple design approaches to achieve the same functionality, comparing behavior, complexity, and design trade-offs before finalizing an implementation.*  
 
 ## ✅ Modules Validated  
 - [Clock Module](CLOCK)
