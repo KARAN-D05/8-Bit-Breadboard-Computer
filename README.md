@@ -29,7 +29,7 @@ Inspired by the Ben Eater 8-bit computer series, I aim to design and build a ful
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- CPU Control Logic
+- Stored micro-program control
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
