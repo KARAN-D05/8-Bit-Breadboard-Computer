@@ -31,6 +31,9 @@ Inspired by the Ben Eater 8-bit computer series, I aim to design and build a ful
 ## 🔍 Module in Development and Testing phase
 - Stored micro-program control
 
+## 🚀Future Development
+- Fetch Decode Execute Control
+
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
 
