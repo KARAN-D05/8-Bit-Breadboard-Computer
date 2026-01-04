@@ -49,5 +49,5 @@ Each module will have its own folder containing:
 - Document the full design and build process  
 - Share schematics, notes, and experiments for others to learn from
 
-## 🧩HDL Implementation
+## 🧩HDL Implementation (Upcoming Versions)
 - `Translating all modules into Verilog and eventually implementing the entire machine.`
