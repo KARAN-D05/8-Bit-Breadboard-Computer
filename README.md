@@ -47,4 +47,7 @@ Each module will have its own folder containing:
 ## 🎯 Goals  
 - Understand computation from the ground up  
 - Document the full design and build process  
-- Share schematics, notes, and experiments for others to learn from  
+- Share schematics, notes, and experiments for others to learn from
+
+##🧩HDL Implementation
+- Translating all modules into Verilog and eventually implementing the entire machine.
