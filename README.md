@@ -29,7 +29,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Stored micro-program control -> **Will be based on `HARVARD ARCHITECTURE`**
+- Stored micro-program control
   - Instruction format developed
   - Program Memory developed & interfaced with the computer
 
