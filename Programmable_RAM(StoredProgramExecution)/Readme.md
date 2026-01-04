@@ -1,5 +1,5 @@
 ## Programmable RAM (Stored Program Execution)
-- In Stored Program execution also known as Von Neumann Architecture, we store the program in the memory as sequence of machine code instructions that are
+- In Stored Program execution, we store the program(microcode/control words) in the memory as sequence of machine code instructions that are
   sequentially executed one by one by the hardware.
 
 <p align="center">
@@ -69,6 +69,7 @@
 - Checkout Version 4 of [Computing Machinery from scratch](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch)
 - This project explores computation from ground up, from logic gates to programming
 - In version 4 we write machine code that controls a sophisticated autonomous arithmetic machine
+
 
 
 
