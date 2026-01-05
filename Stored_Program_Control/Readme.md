@@ -25,4 +25,4 @@
 - Bit 16: Enable Instruction Register
 
 ## ⚙️Architectural details:
-- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/RAMV4)
+- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/RAM_V4) for architectural details about the program flowing memory.
