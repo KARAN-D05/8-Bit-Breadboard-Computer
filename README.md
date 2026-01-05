@@ -20,6 +20,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 - [Programmable ROM - Hex Display](PROM_Chip-Hex-Display)
 - [Programmable ROM - Decimal Display](PROM_Chip-Decimal-Display)
 - [System Integration](System_Integration)
+- [Stored Micro-Program Control](Stored_Program_Control)
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
@@ -32,6 +33,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 - Stored micro-program control
   - Instruction format developed
   - Program Memory developed & interfaced with the computer
+  - Tested on sample programs and functionality verified
 
 ## 🚀Future Development
 - Fetch Decode Execute Control  
