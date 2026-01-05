@@ -2,7 +2,7 @@
 - This machine is controlled by a microprogram consisting of pre-encoded microinstructions stored in a clock-driven flowing memory. Each microinstruction advances sequentially through memory and directly drives the machine’s control and data signals when it reaches the execution interface.
 
 <p align="center">
-  <img src="images/Stored_Program_Control.png" alt="Stored Program Control" width="600"><br>
+  <img src="images/Stored_Program_Control.png" alt="Stored Program Control" width="800"><br>
   <strong>Figure:</strong> Flow-sequenced microprogram control memory driving the machine.
 </p>
 
@@ -25,4 +25,4 @@
 - Bit 16: Enable Instruction Register
 
 ## ⚙️Architectural details:
-- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/r_a_mv4)
+- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/RAMV4)
