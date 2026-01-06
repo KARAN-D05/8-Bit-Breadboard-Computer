@@ -30,13 +30,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Stored micro-program control
-  - Instruction format developed
-  - Program Memory developed & interfaced with the computer
-  - Tested on sample programs and functionality verified
-
-## 🚀Future Development
-- Fetch Decode Execute Control  
+- Fetch Decode Execute Control 
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
