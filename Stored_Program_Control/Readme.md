@@ -24,5 +24,9 @@
 - Bit 15: Load Instruction Register
 - Bit 16: Enable Instruction Register
 
-## ⚙️Architectural details:
+## 🧪Sample Program
+- 
+
+
+## ⚙️Architectural details
 - Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/tree/main/RAM_V4) for architectural details about the program flowing memory.
