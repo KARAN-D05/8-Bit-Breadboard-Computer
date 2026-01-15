@@ -30,7 +30,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Module in Development and Testing phase
-- Fetch Decode Execute Control 
+- Fetch Decode Execute Control Logic
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
