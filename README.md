@@ -30,7 +30,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Verilog Implementations
-- [Clock Module](Verilog_Implementations/CLOCK)
+- [Clock](Verilog_Implementations/CLOCK)
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
