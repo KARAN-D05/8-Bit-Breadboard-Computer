@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="CLOCK/images/astable_clk.png" 
-       width="750"/>
+       width="1500"/>
   <br>
   <sub><b> Astable Clock
 </p>
