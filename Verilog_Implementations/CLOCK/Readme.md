@@ -1,7 +1,7 @@
 # 🕑Clock
 
 <p align="center">
-  <img src="images/astable_clk.png" 
+  <img src="images/astable-clk.png" 
        width="2000"/>
   <br>
   <sub><b> Clock
