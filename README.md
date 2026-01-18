@@ -24,7 +24,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
-       width="600"/>
+       width="750"/>
   <br>
   <sub><b>💾 Programmable ROM </b></sub>
 </p>
