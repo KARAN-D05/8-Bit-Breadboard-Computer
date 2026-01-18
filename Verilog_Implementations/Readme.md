@@ -13,7 +13,7 @@
 - [Clock](CLOCK)
 
 <p align="center">
-  <img src="CLOCK/images/astable_clk.png" 
+  <img src="CLOCK/images/astable-clk.png" 
        width="2000"/>
   <br>
   <sub><b> Clock
