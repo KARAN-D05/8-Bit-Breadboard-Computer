@@ -24,7 +24,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   
 <p align="center">
   <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
-       width="750"/>
+       width="600"/>
   <br>
   <sub><b>💾 Programmable ROM </b></sub>
 </p>
@@ -33,7 +33,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 - [Clock](Verilog_Implementations/CLOCK)
 
 <p align="center">
-  <img src="Verilog_Implementations/CLOCK/images/astable_clk.png" 
+  <img src="Verilog_Implementations/CLOCK/images/astable-clk.png" 
        width="2000"/>
   <br>
   <sub></b> Clock In Verilog
