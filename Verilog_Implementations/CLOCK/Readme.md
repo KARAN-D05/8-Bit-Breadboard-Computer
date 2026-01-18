@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="images/$monitor Terminal.png" 
-       width="2000"/>
+       width="700"/>
   <br>
   <sub><b> Output Terminal
 </p>
