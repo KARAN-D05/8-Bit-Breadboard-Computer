@@ -29,8 +29,8 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   <sub><b>💾 Programmable ROM </b></sub>
 </p>
 
-## 🔍 Module in Development and Testing phase
-- Fetch Decode Execute Control Logic
+## 🔍 HDL Implementations
+- Clock Module
 
 ## 🐞 Module in Debugging Phase
 - [ALU Gate Implementation](Bugs)
@@ -44,6 +44,3 @@ Each module will have its own folder containing:
 - Understand computation from the ground up  
 - Document the full design and build process  
 - Share schematics, notes, and experiments for others to learn from
-
-## 🧩HDL Implementation (Upcoming Version)
-- `Translating all modules into Verilog and eventually implementing the entire machine.`
