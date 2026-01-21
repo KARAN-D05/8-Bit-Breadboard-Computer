@@ -30,13 +30,13 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Verilog Implementations
-- [Clock](Verilog_Implementations/CLOCK)
+- [Clock](CLOCK/CLOCK-Verilog)
 
 <p align="center">
-  <img src="Verilog_Implementations/CLOCK/images/astable-clk.png" 
+  <img src="CLOCK/CLOCK-Verilog/images/astable-clk.png" 
        width="2000"/>
   <br>
-  <sub></b> Clock In Verilog
+  <sub></b> Astable Clock 
 </p>
 
 ## 🐞 Module in Debugging Phase
