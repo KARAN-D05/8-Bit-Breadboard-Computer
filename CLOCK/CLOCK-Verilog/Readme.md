@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="Astable/images/$monitor Terminal.png" 
-       width="800"/>
+       width="500"/>
   <br>
   <sub></b> Output Terminal
 </p>
