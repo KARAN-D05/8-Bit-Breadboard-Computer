@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Astable/images/astable-clk.png" 
+  <img src="Astable/images/waveform.png" 
        width="2000"/>
   <br>
   <sub></b> Astable Clock
