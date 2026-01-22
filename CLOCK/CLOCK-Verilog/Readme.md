@@ -6,8 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="Astable/images/$monitor Terminal.png" 
-       width="500"/>
+  <img src="Monostable/images/waveform.png" 
+       width="2000"/>
   <br>
-  <sub></b> Output Terminal
+  <sub></b> Monostable Clock
+</p>
+
+<p align="center">
+  <img src="Bistable/images/waveform.png" 
+       width="2000"/>
+  <br>
+  <sub></b> Bistable Clock
 </p>
