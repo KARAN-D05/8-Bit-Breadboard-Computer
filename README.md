@@ -36,7 +36,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   <img src="CLOCK/CLOCK-Verilog/Bistable/images/waveform.png" 
        width="2000"/>
   <br>
-  <sub></b> Astable Clock 
+  <sub></b> Bistable Clock 
 </p>
 
 ## 🐞 Module in Debugging Phase
