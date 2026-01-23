@@ -33,7 +33,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 - [Clock](CLOCK/CLOCK-Verilog)
 
 <p align="center">
-  <img src="CLOCK/CLOCK-Verilog/Astable/images/astable-clk.png" 
+  <img src="CLOCK/CLOCK-Verilog/Bistable/images/waveform.png" 
        width="2000"/>
   <br>
   <sub></b> Astable Clock 
