@@ -39,9 +39,6 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   <sub></b> Bistable Clock 
 </p>
 
-## 🐞 Module in Debugging Phase
-- [ALU Gate Implementation](Bugs)
-
 ## 📂 Project Structure  
 Each module will have its own folder containing:  
 - A dedicated **README.md** explaining design, features, and usage  
