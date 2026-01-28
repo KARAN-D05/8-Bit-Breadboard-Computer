@@ -30,13 +30,13 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 </p>
 
 ## 🔍 Verilog Implementations
-- [Clock](CLOCK/CLOCK-Verilog)
+- [Clock Module](CLOCK/CLOCK-Verilog)
 
 <p align="center">
-  <img src="CLOCK/CLOCK-Verilog/Bistable/images/waveform.png" 
+  <img src="CLOCK/CLOCK-Verilog/CLOCK-Module/images/waveform.png" 
        width="2000"/>
   <br>
-  <sub></b> Bistable Clock 
+  <sub></b> Clock Module
 </p>
 
 ## 📂 Project Structure  
