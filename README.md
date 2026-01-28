@@ -23,8 +23,8 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 - [Stored Micro-Program Control](Stored_Program_Control)
   
 <p align="center">
-  <img src="registers_AND_bus/images/registers_AND_bus.png" 
-       width="850"/>
+  <img src="PROM_Chip-Hex-Display/Images/Programmable-ROM-Chip.png" 
+       width="750"/>
   <br>
   <sub><b>💾 Registers & Bus System </b></sub>
 </p>
