@@ -18,3 +18,10 @@
   <br>
   <sub></b> Bistable Clock
 </p>
+
+<p align="center">
+  <img src="Clock Module/images/waveform.png" 
+       width="2000"/>
+  <br>
+  <sub></b> Clock Module
+</p>
