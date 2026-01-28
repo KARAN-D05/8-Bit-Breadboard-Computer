@@ -24,7 +24,7 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
   
 <p align="center">
   <img src="registers_AND_bus/images/registers_AND_bus.png" 
-       width="750"/>
+       width="850"/>
   <br>
   <sub><b>💾 Registers & Bus System </b></sub>
 </p>
