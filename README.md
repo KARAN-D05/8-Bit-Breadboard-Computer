@@ -1,5 +1,12 @@
 # 🏗️ 8-Bit Breadboard Computer  
 
+<p align="center">
+  <img src="System_Integration/Images/System-Integration.png" 
+       width="1200"/>
+  <br>
+  <sub></b> ⚙️ System Integration - Registers, Memory, ALU, Program Counter and Display Connected
+</p>
+
 ## 🧠 About  
 This project is my attempt to explore how computers work **fundamentally at the gate level**.  
 I aim to design and build a fully functional 8-bit CPU from scratch.  
