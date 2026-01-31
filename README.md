@@ -1,4 +1,4 @@
-# 🏗️ 8-Bit Breadboard Computer  
+# 🏗️ 8-Bit Computer  
 
 <p align="center">
   <img src="System_Integration/Images/System-Integration.png" 
