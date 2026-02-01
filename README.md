@@ -12,7 +12,7 @@ This project is my attempt to explore how computers work **fundamentally at the 
 I aim to design and build a fully functional 8-bit CPU from scratch.  
 
 ## 🎯My Approach: 
-*Before simulation, each module is designed conceptually using hand-drawn block diagrams and written reasoning to validate the logic flow through mental simulation and small example cases. The block diagram is then refined into a rough structural, gate-level representation before being implemented, debugged, and rigorously tested in digital logic simulators such as Logisim Evolution and Falstad. Where possible, I explore multiple design approaches to achieve the same functionality, comparing behavior, complexity, and design trade-offs before finalizing an implementation.*  
+Before simulation, each module is designed conceptually using hand-drawn block diagrams and written reasoning to validate the logic flow through mental simulation and small example cases. The block diagram is then refined into a rough structural, gate-level representation before being implemented, debugged, and rigorously tested in digital logic simulators such as Logisim Evolution and Falstad. Where possible, I explore multiple design approaches to achieve the same functionality, comparing behavior, complexity, and design trade-offs before finalizing an implementation. 
 
 ## ✅ Modules Validated  
 - [Clock Module](CLOCK)
