@@ -1,6 +1,6 @@
 module or_mem(
     input push,
-    input power_cut,
+    input power_cut, // Represents physical power-supply cut -> disconnecting circuit from the voltage source
     output reg out
 );
   
@@ -14,4 +14,5 @@ module or_mem(
     end
   end
   
+
 endmodule
