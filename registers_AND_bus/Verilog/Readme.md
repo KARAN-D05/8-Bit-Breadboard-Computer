@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="Set-Only-Latch/images/out-terminal.png" 
-       width="2000"/>
+       width="1500"/>
   <br>
   <sub></b> Output Terminal
 </p>
