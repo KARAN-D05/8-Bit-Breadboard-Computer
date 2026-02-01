@@ -38,6 +38,7 @@ Before simulation, each module is designed conceptually using hand-drawn block d
 
 ## 🔍 Verilog Implementations
 - [Clock](CLOCK/CLOCK-Verilog)
+- [Set-Only Latch](registers_AND_bus/Verilog)
 
 <p align="center">
   <img src="CLOCK/CLOCK-Verilog/Clock-Module/images/waveform.png" 
