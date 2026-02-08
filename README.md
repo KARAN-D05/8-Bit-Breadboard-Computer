@@ -58,3 +58,7 @@ Each module will have its own folder containing:
 - Understand computation from the ground up  
 - Document the full design and build process  
 - Share schematics, notes, and experiments for others to learn from
+
+## 📜 License
+- Source code, HDL, and Logisim circuit files are licensed under the MIT License.
+- Documentation, diagrams, images, and PDFs are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
