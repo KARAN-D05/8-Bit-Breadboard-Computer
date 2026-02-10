@@ -8,7 +8,7 @@
 </p>
 
 ## 🧠 About  
-This project is my attempt to explore how computers work **fundamentally at the gate level**.  
+- This project is my attempt to explore how computers work **fundamentally at the gate level**.  
 I aim to design and build a fully functional 8-bit CPU from scratch.  
 
 ## 🎯My Approach: 
